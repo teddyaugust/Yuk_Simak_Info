@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65969254100",
+    "project_id": "yuk-simak-info-news",
+    "storage_bucket": "yuk-simak-info-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65969254100:android:c10310d38251b46e9ed541",
+        "android_client_info": {
+          "package_name": "com.teddy.yuksimakinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65969254100-aoc79k99rq47qi0b79e9god94vhkrhs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTngXoOMBWOEFpgTo6czO6qBXbyzfbzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65969254100-aoc79k99rq47qi0b79e9god94vhkrhs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
